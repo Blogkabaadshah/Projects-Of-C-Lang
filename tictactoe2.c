@@ -48,7 +48,7 @@ int check()
         return 1;
     }
 
-    // Verical
+    // Vertical
 
     else if (board[0][0] == board[1][0] && board[1][0] == board[2][0])
     {
